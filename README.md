@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ritik Uniyal
-- 👀 I’m interested in Cloud related projects and looking to step into opensource.
+- 👀 I’m interested in Cloud and web development related projects and looking to step into opensource.
 - 🌱 I’m currently pursuing my B.Tech in Computer Science with specialization in Cloud Computing and Virtualization Technology(CCVT)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
